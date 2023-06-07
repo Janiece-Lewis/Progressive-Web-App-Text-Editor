@@ -47,8 +47,8 @@ THEN I should have proper build scripts for a webpack application
 
 ![image](https://github.com/Janiece-Lewis/Progressive-Web-App-Text-Editor/assets/115986034/17b16d34-935b-477c-905a-5e4ddfabc695)
 
-## HerokuDeployedLink
-[Deployed Link](https://pwa-text-editor-jl.herokuapp.com/)
+## Heroku Deployed Link
+[Heroku Link](https://pwa-text-editor-jl.herokuapp.com/)
 
 
 ## Contributing
