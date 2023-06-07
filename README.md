@@ -4,14 +4,6 @@
 
  Build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
-## Table of contents
-
-- [User Story](#userstory)
-- [Acceptance Criteria](#AcceptanceCriteria)
-- [Preview](#preview)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 
 ## User Story
@@ -52,7 +44,7 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 ## Preview
-![walkthrough](https://drive.google.com/file/d/1q-0j0E_qy9YcyDHjRamw1u5v6BYtMb4h/view)
+![Preview]([./Assets/1screenshot%20.png](https://www.awesomescreenshot.com/image/40520194?key=6c5b2551521d75655ba41273c49df9b5))
 
 
 ## Contributing
