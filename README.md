@@ -44,7 +44,8 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 ## Preview
-![Preview]([./Assets/1screenshot%20.png](https://www.awesomescreenshot.com/image/40520194?key=6c5b2551521d75655ba41273c49df9b5))
+
+![image](https://github.com/Janiece-Lewis/Progressive-Web-App-Text-Editor/assets/115986034/17b16d34-935b-477c-905a-5e4ddfabc695)
 
 
 ## Contributing
